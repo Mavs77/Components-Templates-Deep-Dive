@@ -1,34 +1,25 @@
 {
-  "hash": "d5d44fb4",
-  "configHash": "9fbd4729",
+  "hash": "fbcf091b",
+  "configHash": "c73a5f39",
   "lockfileHash": "c317c681",
-  "browserHash": "fbc818f4",
+  "browserHash": "c4bb0fcd",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "4042aa8c",
+      "fileHash": "03e913ad",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "daf52829",
-      "needsInterop": false
-    },
-    "tslib": {
-      "src": "../../../../../../node_modules/tslib/tslib.es6.mjs",
-      "file": "tslib.js",
-      "fileHash": "2975212c",
+      "fileHash": "cf3dbe03",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-ZEDHKAKE": {
-      "file": "chunk-ZEDHKAKE.js"
-    },
-    "chunk-EPAV4CNQ": {
-      "file": "chunk-EPAV4CNQ.js"
+    "chunk-WR5DM2TH": {
+      "file": "chunk-WR5DM2TH.js"
     }
   }
 }
